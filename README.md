@@ -1,6 +1,6 @@
 SASS2CSS | Sass Engine
 ======================
-Sass, Scss, less to css converter | An online/offline tool for Convert sass, scss, less Code to CSS Code.
+Online/offline tool for Convert sass, scss, less Code to CSS Code.
 
 ------
 
