@@ -4,6 +4,10 @@ Sass, Scss, less to css converter | An online/offline tool for Convert sass, scs
 
 ------
 
+### Downloads
+- [SassEngine-win-x64-3.0.0.exe](https://sass2css.herokuapp.com/downloads/SassEngine-win-x64-3.0.0.exe)
+- [SassEngine-win-x86-3.0.0.exe](https://sass2css.herokuapp.com/downloads/SassEngine-win-x86-3.0.0.exe)
+
 ### Additional Dependencies
 
 - [LibSass - Sass compiler written in C++](https://github.com/sass/libsass)
