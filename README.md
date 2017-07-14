@@ -2,6 +2,7 @@ SASS2CSS | Sass Engine
 ======================
 Online/offline tool for Convert sass, scss, less Code to CSS Code.
 
+> This repository is currently only used for issue tracking for SassEngine Desktop Application & Web Application
 ------
 
 ### Downloads
