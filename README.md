@@ -12,10 +12,10 @@ Online/offline tool for Convert sass, scss, less Code to CSS Code.
 
 ### Additional Dependencies
 
-- [LibSass - Sass compiler written in C++](https://github.com/sass/libsass)
-- [Less](https://github.com/less)
-- [Autoprefixer](https://github.com/postcss/autoprefixer)
-- [CodeMirror](https://github.com/codemirror/CodeMirror)
+- [LibSass - Sass compiler written in C++](https://github.com/sass/libsass) *(Windows Application/Web Application)*
+- [Less](https://github.com/less) *(Web Application)*
+- [Autoprefixer](https://github.com/postcss/autoprefixer) *(Web Application)*
+- [CodeMirror](https://github.com/codemirror/CodeMirror) *(Web Application)*
 
 ### Copyright
 Copyright (c) 2017 D.D.Wanniarachchi. See [LICENSE](https://github.com/DininduWanniarachchi/sasstocss/blob/master/LICENSE) for details.
