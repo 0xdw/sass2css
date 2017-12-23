@@ -11,8 +11,8 @@ Online/offline tool for Convert sass, scss, less Code to CSS Code.
 
 ### Screenshots
 
-- [Web version](https://github.com/DininduWanniarachchi/sass2css/sass2css-web-version.png)
-- [Windows version](https://github.com/DininduWanniarachchi/sass2css/sass2css-windows-version.png)
+- [Web version](https://github.com/DininduWanniarachchi/sass2css/blob/master/sass2css-web-version.png)
+- [Windows version](https://github.com/DininduWanniarachchi/sass2css/blob/master/sass2css-windows-version.png)
 
 ### Additional Dependencies
 
